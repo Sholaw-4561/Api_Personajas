@@ -1,9 +1,11 @@
 using Api_Personajas.DTOs;
 using Api_Personajas.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Api_Personajas.Controllers;
 
+[Authorize]
 [ApiController]
 [Route("api/personajes")]
 public class PersonajesController : ControllerBase
