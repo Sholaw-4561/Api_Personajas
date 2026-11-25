@@ -1,0 +1,7 @@
+[
+  { "Id": 1, "Nombre": "Arthur Morgan", "Videojuego": "Red Dead Redemption 2", "Clase": "Forajido", "Nivel": 45, "Poder": 850, "Disponible": true, "ImagenUrl": "https://placehold.co/400x500?text=Arthur+Morgan" },
+  { "Id": 2, "Nombre": "Ezio Auditore", "Videojuego": "Assassin's Creed II", "Clase": "Asesino", "Nivel": 50, "Poder": 780, "Disponible": true, "ImagenUrl": "https://placehold.co/400x500?text=Ezio+Auditore" },
+  { "Id": 3, "Nombre": "Master Chief", "Videojuego": "Halo", "Clase": "Spartan", "Nivel": 99, "Poder": 980, "Disponible": true, "ImagenUrl": "https://placehold.co/400x500?text=Master+Chief" },
+  { "Id": 4, "Nombre": "Kratos", "Videojuego": "God of War", "Clase": "Dios de la Guerra", "Nivel": 100, "Poder": 1000, "Disponible": true, "ImagenUrl": "https://placehold.co/400x500?text=Kratos" },
+  { "Id": 5, "Nombre": "Leon S. Kennedy", "Videojuego": "Resident Evil 4", "Clase": "Agente", "Nivel": 60, "Poder": 700, "Disponible": true, "ImagenUrl": "https://placehold.co/400x500?text=Leon+S.+Kennedy" }
+]
